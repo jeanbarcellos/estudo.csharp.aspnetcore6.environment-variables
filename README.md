@@ -1,6 +1,6 @@
 # ASP.NET Core + Variáveis de Ambiente + Docker
 
-Trabalhando com variáveis de ambiente
+Exemplo de Web API criada com ASP.NET Core 6.0 para testes de leitura de variáveis de ambiente utilizando o tipo IConfiguration.
 
 Referências:
 
