@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  api-environment:
+    build: './src'
+    container_name: api-environment
+    restart: always
+    environment:
+      - MENSAGEM=Teste via Docker Compose
+    ports:
+      - 20003:80
