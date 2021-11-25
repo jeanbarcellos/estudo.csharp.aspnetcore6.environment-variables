@@ -107,3 +107,7 @@ docker build -t api-environment -f Dockerfile .
 ```
 docker create --name api-environment api-environment
 ```
+
+```
+docker-compose up --build
+```
