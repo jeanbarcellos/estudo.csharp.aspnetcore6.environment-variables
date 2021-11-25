@@ -8,6 +8,8 @@ Referências:
 - https://docs.microsoft.com/pt-br/aspnet/core/fundamentals/configuration/?view=aspnetcore-6.0
 - https://weblog.west-wind.com/posts/2017/dec/12/easy-configuration-binding-in-aspnet-core-revisited
 - https://docs.microsoft.com/pt-br/dotnet/core/docker/build-container?tabs=windows
+- https://docs.microsoft.com/pt-br/aspnet/core/host-and-deploy/docker/building-net-docker-images?view=aspnetcore-6.0#the-dockerfile
+- https://digitalinnovation.one/artigos/aspnet-5core-docker-variaveis-de-ambientes
 
 <br>
 <br>

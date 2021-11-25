@@ -7,5 +7,8 @@ services:
     restart: always
     environment:
       - MENSAGEM=Teste via Docker Compose
+      - Weblog:Email:MailServerUsername=jeanbarcellos@hotmail.com
+      - Weblog:ApplicationName=Jean Barcellos Docker Compose
+      - Nivel01:Default=1111 Docker Compose
     ports:
       - 20003:80
